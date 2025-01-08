@@ -1,4 +1,4 @@
-# Hi, I'm Ikhsan Fauzan Aziim 👋
+# Hi, I'm Ikhsan 👋
 
 ## About Me
 
