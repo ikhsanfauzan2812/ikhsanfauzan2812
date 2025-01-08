@@ -20,12 +20,10 @@ I'm a **Web & Mobile Developer** and **AI Enthusiast** currently studying **Comp
 **Tools:**
 - VS Code
 - Git & GitHub
-- Docker
-- Firebase
 
 **Frameworks & Libraries:**
 - Flutter
-- React
+- Java
 - YOLOv8 (for object detection)
 
 ## Projects
@@ -37,8 +35,8 @@ I'm a **Web & Mobile Developer** and **AI Enthusiast** currently studying **Comp
 
 ## Let's Connect
 
-- LinkedIn: [Ikhsan Fauzan Aziim](https://www.linkedin.com/in/ikhsanfauzanaziim/)
-- Instagram: [@ikhsanfauzanaziim](https://instagram.com/ikhsanfauzanaziim)
-- Email: ikhsanfauzanaziim@domain.com
+- LinkedIn: [Ikhsan Fauzan Aziim](https://www.linkedin.com/in/ikhsanfauzan/)
+- Instagram: [@ikhsanfauzanaziim](https://instagram.com/ikhsanfauzan28)
+- Email: ikhsanfauzanaziim@gmail.com
 
 Looking forward to connecting with you! 🚀
