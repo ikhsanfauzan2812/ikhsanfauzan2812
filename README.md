@@ -55,7 +55,7 @@ I'm a **Web & Mobile Developer** and **AI Enthusiast** currently studying **Comp
 - **🕹️[DIY Vending Machine](https://docs.google.com/presentation/d/1BTxAkalkiVCBJdnkRO9cD3jEcrN7iA4u/edit#slide=id.p1)🕹️**  
   Developed a vending machine using Arduino Uno, integrating servos, buttons, an LCD, and an IR detector. Designed control algorithms for reliable dispensing and user interaction.
 
-- **❤️‍🩹[Arduino-Based Digital Heart Rate Meter]❤️‍🩹**  
+- **❤️‍🩹Arduino-Based Digital Heart Rate Meter❤️‍🩹**  
   Built a heart rate monitoring device using Arduino and XD-58C sensor. Features real-time monitoring, an LCD display, and alert mechanisms for abnormal readings.
   
 ## Let's Connect
