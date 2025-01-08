@@ -61,7 +61,7 @@ I'm a **Web & Mobile Developer** and **AI Enthusiast** currently studying **Comp
 ## Let's Connect
 
 - LinkedIn: [Ikhsan Fauzan Aziim](https://www.linkedin.com/in/ikhsanfauzan/)
-- Instagram: [@ikhsanfauzanaziim](https://instagram.com/ikhsanfauzan28)
+- Instagram: [Ikhsan Fauzan](https://instagram.com/ikhsanfauzan28)
 - Email: ikhsanfauzan28@gmail.com
 
 Looking forward to connecting with you! 🚀
