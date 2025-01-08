@@ -4,7 +4,7 @@
 
 I'm a **Web & Mobile Developer** and **AI Enthusiast** currently studying **Computer Engineering** at Universitas Pendidikan Indonesia. I'm passionate about building interactive learning tools, especially for people with disabilities, and exploring innovative solutions in technology.
 
-- 🔭 I'm currently working on [QuizSense Mobile](https://github.com/ikhsanfauzanaziim/QuizSense-Mobile) and exploring **AI** for real-world applications.
+- 🔭 I'm currently working on [QuizSense Mobile](https://github.com/ikhsanfauzan2812/netradapt_mobile) and exploring **AI** for real-world applications.
 - 🌱 I’m learning more about **Machine Learning**, **Web Development**, and **Mobile App Development**.
 - 💬 Ask me about anything related to **IoT**, **AI**, or **Web/Mobile Development**!
 - ⚡ Fun fact: I'm also a **guitarist** and love covering pop-punk songs on Instagram.
